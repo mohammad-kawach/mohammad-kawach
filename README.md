@@ -69,6 +69,7 @@
           width="48"
           height="48"
           alt="nextjs"
+          style="background: white; border-radius: 50px;"
         />
       </a>
       <br />Next JS
@@ -215,7 +216,7 @@
       <a href="#php">
         <img
           src="https://cdn.worldvectorlogo.com/logos/php-1.svg"
-          width="48"
+          width="100"
           height="48"
           alt="Redis"
         />
