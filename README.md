@@ -63,9 +63,9 @@
       <br />React JS
     </td>
     <td align="center" width="96">
-      <a href="#nextjs" style="background: white !important; border-radius: 50px !important;">
+      <a href="#nextjs">
         <img
-          src="https://cdn.worldvectorlogo.com/logos/next-js.svg"
+          src="https://www.svgrepo.com/show/354112/nextjs.svg"
           width="48"
           height="48"
           alt="nextjs"
