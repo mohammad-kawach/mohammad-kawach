@@ -41,7 +41,7 @@
       >
     </li>
     <br />
-    <li>📫 You can reach me at kawashmohammad42@gmail.com</li>
+    <li>📫 You can reach me at <a href="mailto:kawashmohammad42@gmail.com">kawashmohammad42@gmail.com</a></li>
     <br />
   </ul>
 </h3>
