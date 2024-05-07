@@ -69,7 +69,7 @@
           width="48"
           height="48"
           alt="nextjs"
-          style="background: white; border-radius: 50px;"
+          style="background: white !important; border-radius: 50px !important;"
         />
       </a>
       <br />Next JS
