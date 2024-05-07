@@ -85,18 +85,29 @@
       <br />Redux
     </td>
     <td align="center" width="96">
-      <a href="#tailwindcss">
+      <a href="#typescript">
         <img
-          src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4"
+          src="https://cdn.worldvectorlogo.com/logos/typescript.svg"
           width="48"
           height="48"
-          alt="Tailwind CSS"
+          alt="Forge"
         />
       </a>
-      <br />Tailwind CSS
+      <br />TypeScript
     </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+      <a href="#js">
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
+          width="48"
+          height="48"
+          alt="javascript"
+        />
+      </a>
+      <br />Javascript
+    </td>
     <td align="center" width="96">
       <a href="#html5">
         <img
@@ -130,29 +141,18 @@
       </a>
       <br />Bootstrap
     </td>
-    <td align="center" width="96">
-      <a href="#js">
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
-          width="48"
-          height="48"
-          alt="javascript"
-        />
-      </a>
-      <br />Javascript
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="#python">
+      <a href="#tailwindcss">
         <img
-          src="https://cdn.worldvectorlogo.com/logos/python-5.svg"
+          src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4"
           width="48"
           height="48"
-          alt="Vuejs"
+          alt="Tailwind CSS"
         />
       </a>
-      <br />Python
+      <br />Tailwind CSS
     </td>
     <td align="center" width="96">
       <a href="#jQuery">
@@ -166,17 +166,6 @@
       <br />jQuery
     </td>
     <td align="center" width="96">
-      <a href="#laravel">
-        <img
-          src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg"
-          width="48"
-          height="48"
-          alt="Laravel"
-        />
-      </a>
-      <br />MySQL
-    </td>
-    <td align="center" width="96">
       <a href="#sass">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -186,6 +175,17 @@
         />
       </a>
       <br />Sass
+    </td>
+    <td align="center" width="96">
+      <a href="#mysql">
+        <img
+          src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg"
+          width="48"
+          height="48"
+          alt="mysql"
+        />
+      </a>
+      <br />MySQL
     </td>
   </tr>
   <tr>
@@ -201,15 +201,15 @@
       <br />Git
     </td>
     <td align="center" width="96">
-      <a href="#typescript">
+      <a href="#python">
         <img
-          src="https://cdn.worldvectorlogo.com/logos/typescript.svg"
+          src="https://cdn.worldvectorlogo.com/logos/python-5.svg"
           width="48"
           height="48"
-          alt="Forge"
+          alt="Python"
         />
       </a>
-      <br />TypeScript
+      <br />Python
     </td>
     <td align="center" width="96">
       <a href="#php">
