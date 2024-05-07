@@ -63,15 +63,15 @@
       <br />React JS
     </td>
     <td align="center" width="96">
-      <a href="#nextjs">
+      <a href="#js">
         <img
-          src="https://www.svgrepo.com/show/354112/nextjs.svg"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
           width="48"
           height="48"
-          alt="nextjs"
+          alt="javascript"
         />
       </a>
-      <br />Next JS
+      <br />Javascript
     </td>
     <td align="center" width="96">
       <a href="#Redux">
@@ -98,15 +98,15 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="#js">
+      <a href="#nextjs">
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
+          src="https://cdn.worldvectorlogo.com/logos/next-js.svg"
           width="48"
           height="48"
-          alt="javascript"
+          alt="nextjs"
         />
       </a>
-      <br />Javascript
+      <br />Next JS
     </td>
     <td align="center" width="96">
       <a href="#html5">
