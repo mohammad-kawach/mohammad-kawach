@@ -3,6 +3,7 @@
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=mohammad-kawach&color=fd9900&style=flat"
+    height="30"
     alt="mohammad-kawash"
   />
 </p>
@@ -79,7 +80,7 @@
           src="https://cdn.worldvectorlogo.com/logos/redux.svg"
           width="48"
           height="48"
-          alt="Alpine.js"
+          alt="Redux"
         />
       </a>
       <br />Redux
@@ -90,7 +91,7 @@
           src="https://cdn.worldvectorlogo.com/logos/typescript.svg"
           width="48"
           height="48"
-          alt="Forge"
+          alt="TypeScript"
         />
       </a>
       <br />TypeScript
@@ -103,7 +104,7 @@
           src="https://cdn.worldvectorlogo.com/logos/next-js.svg"
           width="48"
           height="48"
-          alt="nextjs"
+          alt="Next JS"
         />
       </a>
       <br />Next JS
@@ -217,7 +218,7 @@
           src="https://cdn.worldvectorlogo.com/logos/php-1.svg"
           width="100"
           height="48"
-          alt="Redis"
+          alt="PHP"
         />
       </a>
       <br />PHP
