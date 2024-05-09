@@ -37,7 +37,7 @@
     <br />
     <li>
   👨‍💻 Check my
-      <a href="https://mohammadkawash.vercel.app/" target="_blank">Portfolio</a>
+      <a href="https://mohammadkawash.vercel.app/" rel="noreferrer" target="_blank">Portfolio</a>
     </li>
     <br />
     <li>📫 You can reach me at <a href="mailto:kawashmohammad42@gmail.com">kawashmohammad42@gmail.com</a></li>
