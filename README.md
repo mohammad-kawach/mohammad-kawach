@@ -36,10 +36,8 @@
     <li>👀 Just call me <strong>Mohammad</strong></li>
     <br />
     <li>
-      👨‍💻 Check my
-      <a target="_blank" href="https://mohammadkawash.vercel.app/"
-        >Portfolio</a
-      >
+  👨‍💻 Check my
+      <a href="https://mohammadkawash.vercel.app/" target="_blank">Portfolio</a>
     </li>
     <br />
     <li>📫 You can reach me at <a href="mailto:kawashmohammad42@gmail.com">kawashmohammad42@gmail.com</a></li>
