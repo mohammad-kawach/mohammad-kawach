@@ -1,5 +1,10 @@
+<!-- Start New -->
 <h1 align="center">Hi there my name is Mohammad Kawash 👋</h1>
 <br />
+
+# 💫 About Me:
+💻 Software Engineer<br>🎈 Front-End Developer<br>🎓 AI Master Student
+
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=mohammad-kawach&color=fd9900&style=flat"
@@ -7,235 +12,28 @@
     alt="mohammad-kawash"
   />
 </p>
-<h3 align="center">
-  Software Engineer 🎓 Front-End Web Developer 💻 Programmer and Problem
-  Solver 💡
-</h3>
-<br />
-<p align="center">
-  <a href="https://www.codewars.com/users/mohammad-kawash/">
-    <img
-      src="https://www.codewars.com/users/mohammad-kawash/badges/large"
-      alt="Mohammad_Kawash"
-    />
-  </a>
-</p>
-<br />
-<p align="right">
-  <img
-    width="40%"
-    align="right"
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-kawach&layout=compact&theme=gruvbox"
-    alt="Mohammad-Kawash"
-  />
-</p>
-<h3 align="left">
-  <br />
-  <ul>
-    <li>👀 Just call me <strong>Mohammad</strong></li>
-    <br />
-    <li>
-  👨‍💻 Check my
-      <a href="https://mohammadkawash.vercel.app/" rel="noreferrer" target="_blank">Portfolio</a>
-    </li>
-    <br />
-    <li>📫 You can reach me at <a href="mailto:kawashmohammad42@gmail.com">kawashmohammad42@gmail.com</a></li>
-    <br />
-  </ul>
-</h3>
-<br />
-<hr />
-<h3 align="center">Languages and Tools:</h3>
-<br />
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#react-js">
-        <img
-          src="https://cdn.worldvectorlogo.com/logos/react-2.svg"
-          width="48"
-          height="48"
-          alt="React_JS"
-        />
-      </a>
-      <br />React JS
-    </td>
-    <td align="center" width="96">
-      <a href="#js">
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
-          width="48"
-          height="48"
-          alt="javascript"
-        />
-      </a>
-      <br />Javascript
-    </td>
-    <td align="center" width="96">
-      <a href="#Redux">
-        <img
-          src="https://cdn.worldvectorlogo.com/logos/redux.svg"
-          width="48"
-          height="48"
-          alt="Redux"
-        />
-      </a>
-      <br />Redux
-    </td>
-    <td align="center" width="96">
-      <a href="#typescript">
-        <img
-          src="https://cdn.worldvectorlogo.com/logos/typescript.svg"
-          width="48"
-          height="48"
-          alt="TypeScript"
-        />
-      </a>
-      <br />TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#nextjs">
-        <img
-          src="https://cdn.worldvectorlogo.com/logos/next-js.svg"
-          width="48"
-          height="48"
-          alt="Next JS"
-        />
-      </a>
-      <br />Next JS
-    </td>
-    <td align="center" width="96">
-      <a href="#html5">
-        <img
-          src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"
-          width="48"
-          height="48"
-          alt="Html5"
-        />
-      </a>
-      <br />Html5
-    </td>
-    <td align="center" width="96">
-      <a href="#css3">
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png"
-          width="48"
-          height="48"
-          alt="Css3"
-        />
-      </a>
-      <br />CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#bootstrap">
-        <img
-          src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png"
-          width="48"
-          height="42"
-          alt="Bootstrap"
-        />
-      </a>
-      <br />Bootstrap
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#tailwindcss">
-        <img
-          src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4"
-          width="48"
-          height="48"
-          alt="Tailwind CSS"
-        />
-      </a>
-      <br />Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#jQuery">
-        <img
-          src="https://avatars.githubusercontent.com/u/70142?s=48&v=4"
-          width="48"
-          height="48"
-          alt="jQuery"
-        />
-      </a>
-      <br />jQuery
-    </td>
-    <td align="center" width="96">
-      <a href="#sass">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-          width="48"
-          height="48"
-          alt="Sass"
-        />
-      </a>
-      <br />Sass
-    </td>
-    <td align="center" width="96">
-      <a href="#mysql">
-        <img
-          src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg"
-          width="48"
-          height="48"
-          alt="mysql"
-        />
-      </a>
-      <br />MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#git">
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"
-          width="48"
-          height="48"
-          alt="Git"
-        />
-      </a>
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <a href="#python">
-        <img
-          src="https://cdn.worldvectorlogo.com/logos/python-5.svg"
-          width="48"
-          height="48"
-          alt="Python"
-        />
-      </a>
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <a href="#php">
-        <img
-          src="https://cdn.worldvectorlogo.com/logos/php-1.svg"
-          width="100"
-          height="48"
-          alt="PHP"
-        />
-      </a>
-      <br />PHP
-    </td>
-    <td align="center" width="96">
-      <a href="#docker">
-        <img
-          src="https://avatars.githubusercontent.com/u/7739233?s=48&v=4"
-          width="48"
-          height="48"
-          alt="Docker"
-        />
-      </a>
-      <br />Docker
-    </td>
-  </tr>
-</table>
-<hr />
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-kawach/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Mohammad_Kawach) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mohammad Kawash&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammad Kawash&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad Kawash&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mohammad Kawash&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mohammad Kawash&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- End New -->
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammad-kawach&theme=gruvbox"
   width="100%"
