@@ -31,43 +31,49 @@
   Front-End Web Developer 💻<br /><br />
   Programmer and Problem Solver 💡<br />
 </h3>
+<br />
+
+# ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Quote" />
+</p>
+
+<br />
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohammad-kawach&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <br />
 
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+<!-- General Info -->
+<div>
+  <!-- # Most Used Languages -->
+  <p align="right">
+    <img
+      width="40%"
+      align="right"
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-kawach&layout=compact&theme=gruvbox"
+      alt="Mohammad-Kawash"
+    />
+  </p>
 
-<br />
-
-<!-- # Most Used Languages -->
-<p align="right">
-  <img
-    width="40%"
-    align="right"
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-kawach&layout=compact&theme=gruvbox"
-    alt="Mohammad-Kawash"
-  />
-</p>
-
-<!-- # Email & Info -->
-<h3 align="left">
-  <br />
-  <ul>
-    <li>👀 Just call me <strong>Mohammad</strong></li>
+  <!-- # Email & Info -->
+  <h3 align="left">
     <br />
-    <li>
-  👨‍💻 Check my
-      <a href="https://mohammadkawash.vercel.app/" rel="noreferrer" target="_blank">Portfolio</a>
-    </li>
-    <br />
-    <li>📫 You can reach me at <a href="mailto:kawashmohammad42@gmail.com">kawashmohammad42@gmail.com</a></li>
-    <br />
-  </ul>
-</h3>
+    <ul>
+      <li>👀 Just call me <strong>Mohammad</strong></li>
+      <br />
+      <li>
+    👨‍💻 Check my
+        <a href="https://mohammadkawash.vercel.app/" rel="noreferrer" target="_blank">Portfolio</a>
+      </li>
+      <br />
+      <li>📫 You can reach me at <a href="mailto:kawashmohammad42@gmail.com">kawashmohammad42@gmail.com</a></li>
+      <br />
+    </ul>
+  </h3>
+</div>
 
 <br />
 
