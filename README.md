@@ -11,6 +11,9 @@
   />
 </p>
 
+# 💫 About Me:
+💻 Software Engineer<br>🎈 Front-End Developer<br>🎓 AI Master Student
+
 # About Me
 <h3 align="center">
   Software Engineer 🎓 AI Master Student 👔 Front-End Web Developer 💻 Programmer and Problem
@@ -259,7 +262,10 @@
 </table>
 <hr />
 
-# Profile Summary Card
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+# Mohammad Kawash Summary
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammad-kawach&theme=gruvbox"
   width="100%"
