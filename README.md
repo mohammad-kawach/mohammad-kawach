@@ -1,5 +1,8 @@
+# Name
 <h1 align="center">Hi there my name is Mohammad Kawash 👋</h1>
 <br />
+
+# Number Of Profile Views
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=mohammad-kawach&color=fd9900&style=flat"
@@ -7,11 +10,22 @@
     alt="mohammad-kawash"
   />
 </p>
+
+# About Me
 <h3 align="center">
-  Software Engineer 🎓 Front-End Web Developer 💻 Programmer and Problem
+  Software Engineer 🎓 AI Master Student 👔 Front-End Web Developer 💻 Programmer and Problem
   Solver 💡
 </h3>
+
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mohammad-kawach&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 <br />
+
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+# Codewars Badge
 <p align="center">
   <a href="https://www.codewars.com/users/mohammad-kawash/">
     <img
@@ -20,7 +34,10 @@
     />
   </a>
 </p>
+
 <br />
+
+# Most Used Languages
 <p align="right">
   <img
     width="40%"
@@ -30,6 +47,8 @@
     alt="Mohammad-Kawash"
   />
 </p>
+
+# Email & Info
 <h3 align="left">
   <br />
   <ul>
@@ -44,8 +63,12 @@
     <br />
   </ul>
 </h3>
+
 <br />
+
 <hr />
+
+# Languages and Tools:
 <h3 align="center">Languages and Tools:</h3>
 <br />
 <table align="center">
@@ -236,6 +259,7 @@
 </table>
 <hr />
 
+# Profile Summary Card
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammad-kawach&theme=gruvbox"
   width="100%"
@@ -243,6 +267,7 @@
 
 <hr />
 
+# Mohammad Kawash's GitHub Stats
 <p align="left">
   <img
     width="45%"
@@ -251,6 +276,8 @@
     alt="Mohammad_Kawash"
   />
 </p>
+
+# Github Readme Streak Stats
 <p align="right">
   <img
     width="45%"
@@ -259,3 +286,7 @@
     alt="Mohammad_Kawash"
   />
 </p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohammad-kawach&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+<br/>
