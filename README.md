@@ -46,6 +46,7 @@
 <br />
 
 <!-- General Info -->
+# 🚧 General Info & Portfolio & Contact
 <div>
   <!-- # Most Used Languages -->
   <p align="right">
@@ -80,6 +81,7 @@
 <hr />
 
 <!-- # Languages and Tools: -->
+# 📢 Languages and Tools
 <h3 align="center">Languages and Tools:</h3>
 <br />
 <table align="center">
@@ -281,22 +283,25 @@
 
 <hr />
 
-<!-- # Mohammad Kawash's GitHub Stats -->
-<p align="left">
-  <img
-    width="45%"
-    align="left"
-    src="https://github-readme-stats.vercel.app/api?username=mohammad-kawach&theme=gruvbox&show_icons=true&locale=en"
-    alt="Mohammad_Kawash"
-  />
-</p>
+# 🚩 General Stats
+<div>
+  <!-- # Mohammad Kawash's GitHub Stats -->
+  <p align="left">
+    <img
+      width="45%"
+      align="left"
+      src="https://github-readme-stats.vercel.app/api?username=mohammad-kawach&theme=gruvbox&show_icons=true&locale=en"
+      alt="Mohammad_Kawash"
+    />
+  </p>
 
-<!-- # Github Readme Streak Stats -->
-<p align="right">
-  <img
-    width="45%"
-    align="right"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-kawach&theme=gruvbox&"
-    alt="Mohammad_Kawash"
-  />
-</p>
+  <!-- # Github Readme Streak Stats -->
+  <p align="right">
+    <img
+      width="45%"
+      align="right"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-kawach&theme=gruvbox&"
+      alt="Mohammad_Kawash"
+    />
+  </p>
+</div>
