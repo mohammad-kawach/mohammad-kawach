@@ -1,8 +1,8 @@
-# Name
+<!-- # Name -->
 <h1 align="center">Hi there my name is Mohammad Kawash 👋</h1>
 <br />
 
-# Number Of Profile Views
+<!-- # Number Of Profile Views -->
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=mohammad-kawach&color=fd9900&style=flat"
@@ -11,24 +11,26 @@
   />
 </p>
 
-# 💫 About Me:
-💻 Software Engineer<br>🎈 Front-End Developer<br>🎓 AI Master Student
+<!-- # 💫 About Me: -->
+<!-- 💻 Software Engineer<br>🎈 Front-End Developer<br>🎓 AI Master Student -->
 
-# About Me
+<!-- # About Me -->
 <h3 align="center">
-  Software Engineer 🎓 AI Master Student 👔 Front-End Web Developer 💻 Programmer and Problem
-  Solver 💡
+  Software Engineer 🎓<br />
+  AI Master Student 👔<br />
+  Front-End Web Developer 💻
+  <br />Programmer and Problem Solver 💡
 </h3>
 
-# 🏆 GitHub Trophies
+<!-- # 🏆 GitHub Trophies -->
 ![](https://github-profile-trophy.vercel.app/?username=mohammad-kawach&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <br />
 
-# ✍️ Random Dev Quote
+<!-- # ✍️ Random Dev Quote -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# Codewars Badge
+<!-- # Codewars Badge -->
 <p align="center">
   <a href="https://www.codewars.com/users/mohammad-kawash/">
     <img
@@ -40,7 +42,7 @@
 
 <br />
 
-# Most Used Languages
+<!-- # Most Used Languages -->
 <p align="right">
   <img
     width="40%"
@@ -51,7 +53,7 @@
   />
 </p>
 
-# Email & Info
+<!-- # Email & Info -->
 <h3 align="left">
   <br />
   <ul>
@@ -71,7 +73,7 @@
 
 <hr />
 
-# Languages and Tools:
+<!-- # Languages and Tools: -->
 <h3 align="center">Languages and Tools:</h3>
 <br />
 <table align="center">
@@ -262,10 +264,10 @@
 </table>
 <hr />
 
-# ✍️ Random Dev Quote
+<!-- # ✍️ Random Dev Quote -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# Mohammad Kawash Summary
+<!-- # Mohammad Kawash Summary -->
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammad-kawach&theme=gruvbox"
   width="100%"
@@ -273,7 +275,7 @@
 
 <hr />
 
-# Mohammad Kawash's GitHub Stats
+<!-- # Mohammad Kawash's GitHub Stats -->
 <p align="left">
   <img
     width="45%"
@@ -283,7 +285,7 @@
   />
 </p>
 
-# Github Readme Streak Stats
+<!-- # Github Readme Streak Stats -->
 <p align="right">
   <img
     width="45%"
@@ -292,7 +294,3 @@
     alt="Mohammad_Kawash"
   />
 </p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohammad-kawach&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-<br/>
