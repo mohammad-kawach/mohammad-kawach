@@ -78,7 +78,7 @@
 
 <br />
 
-<hr />
+<!-- <hr /> -->
 
 <!-- # Languages and Tools: -->
 # 📢 Languages and Tools
@@ -272,10 +272,9 @@
 </table>
 <hr />
 
-<!-- # ✍️ Random Dev Quote -->
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- # Mohammad Kawash Summary -->
+# 🚩 General Stats
+<!-- profile-summary -->
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammad-kawach&theme=gruvbox"
   width="100%"
@@ -283,7 +282,6 @@
 
 <hr />
 
-# 🚩 General Stats
 <div>
   <!-- # Mohammad Kawash's GitHub Stats -->
   <p align="left">
