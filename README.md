@@ -11,25 +11,6 @@
   />
 </p>
 
-<!-- # 💫 About Me: -->
-<!-- 💻 Software Engineer<br>🎈 Front-End Developer<br>🎓 AI Master Student -->
-
-<!-- # About Me -->
-<h3 align="center">
-  Software Engineer 🎓<br />
-  AI Master Student 👔<br />
-  Front-End Web Developer 💻
-  <br />Programmer and Problem Solver 💡
-</h3>
-
-<!-- # 🏆 GitHub Trophies -->
-![](https://github-profile-trophy.vercel.app/?username=mohammad-kawach&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<br />
-
-<!-- # ✍️ Random Dev Quote -->
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 <!-- # Codewars Badge -->
 <p align="center">
   <a href="https://www.codewars.com/users/mohammad-kawash/">
@@ -39,6 +20,25 @@
     />
   </a>
 </p>
+
+<!-- # 💫 About Me: -->
+<!-- 💻 Software Engineer<br>🎈 Front-End Developer<br>🎓 AI Master Student -->
+
+<!-- # About Me -->
+<h3 align="center">
+  Software Engineer 🎓 <br /><br />
+  AI Master Student 👔 <br /><br />
+  Front-End Web Developer 💻<br /><br />
+  Programmer and Problem Solver 💡<br />
+</h3>
+
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mohammad-kawach&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<br />
+
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 <br />
 
