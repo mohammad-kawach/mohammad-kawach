@@ -270,6 +270,11 @@
 
 <!-- <hr /> -->
 
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mohammad-kawach&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<hr />
+
 <div>
   <!-- # Mohammad Kawash's GitHub Stats -->
   <p align="left">
@@ -291,13 +296,6 @@
     />
   </p>
 </div>
-
-<hr />
-
-
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohammad-kawach&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <hr />
 
