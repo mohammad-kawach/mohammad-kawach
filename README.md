@@ -260,16 +260,29 @@
 </table>
 <hr />
 
+<!-- <hr /> -->
+
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mohammad-kawach&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<hr />
+
+# ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Quote" />
+</p>
+
+<hr />
+
 
 # 🚩 General Stats
 <!-- profile-summary -->
-<div>
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/ profile-details?username=mohammad-kawach&theme=gruvbox"
-    width="100%"
-  />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/ profile-details?username=mohammad-kawach&theme=gruvbox"
+  width="100%"
+/>
 
-  <div>
+<div>
     <!-- # Mohammad Kawash's GitHub Stats -->
     <p align="left">
       <img
@@ -289,23 +302,4 @@
       alt="Mohammad_Kawash"
     />
   </p>
-  </div>
 </div>
-
-<!-- <hr /> -->
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohammad-kawach&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<hr />
-
-
-
-<hr />
-
-# ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Quote" />
-</p>
-
-<br />
