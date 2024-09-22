@@ -278,7 +278,7 @@
 # 🚩 General Stats
 <!-- profile-summary -->
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/ profile-details?username=mohammad-kawach&theme=gruvbox"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammad-kawach&theme=gruvbox"
   width="100%"
 />
 
