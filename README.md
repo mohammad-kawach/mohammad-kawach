@@ -70,7 +70,7 @@
         <a href="https://mohammadkawash.vercel.app/" rel="noreferrer" target="_blank">Portfolio</a>
       </li>
       <br />
-      <li>📫 You can reach me at <a href="mailto:kawashmohammad42@gmail.com">kawashmohammad42@gmail.com</a></li>
+      <li>📫 You can reach me at <a href="mailto:mkawash777@gmail.com">mkawash777@gmail.com</a></li>
       <br />
     </ul>
   </h3>
