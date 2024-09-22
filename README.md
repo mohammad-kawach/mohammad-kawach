@@ -70,7 +70,7 @@
 
 <!-- # Languages and Tools: -->
 # 📢 Languages and Tools
-<h3 align="center">Languages and Tools:</h3>
+<!-- <h3 align="center">Languages and Tools:</h3> -->
 <br />
 <table align="center">
   <tr>
@@ -268,7 +268,7 @@
   width="100%"
 />
 
-<hr />
+<!-- <hr /> -->
 
 <div>
   <!-- # Mohammad Kawash's GitHub Stats -->
@@ -292,12 +292,14 @@
   </p>
 </div>
 
-<br />
+<hr />
+
+
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohammad-kawach&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<br />
+<hr />
 
 # ✍️ Random Dev Quote
 <p align="center">
