@@ -1,6 +1,8 @@
-<h1 align="center">Hi there, my name is Mohammad Kawash 👋</h1>
+<!-- # Name -->
+<h1 align="center">Hi there my name is Mohammad Kawash 👋</h1>
 <br />
 
+<!-- # Number Of Profile Views -->
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=mohammad-kawach&color=fd9900&style=flat"
@@ -9,6 +11,7 @@
   />
 </p>
 
+<!-- # Codewars Badge -->
 <p align="center">
   <a href="https://www.codewars.com/users/mohammad-kawash/">
     <img
@@ -18,6 +21,10 @@
   </a>
 </p>
 
+<!-- # 💫 About Me: -->
+<!-- 💻 Software Engineer<br>🎈 Front-End Developer<br>🎓 AI Master Student -->
+
+<!-- # About Me -->
 <h3 align="center">
   Software Engineer 🎓 <br /><br />
   AI Master Student 👔 <br /><br />
@@ -26,34 +33,45 @@
 </h3>
 <br />
 
+<!-- General Info -->
 # 🚧 General Info & Portfolio & Contact
-
 <div>
+  <!-- # Most Used Languages -->
   <p align="right">
     <img
       width="40%"
+      align="right"
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-kawach&layout=compact&theme=gruvbox"
       alt="Mohammad-Kawash"
     />
   </p>
 
+  <!-- # Email & Info -->
   <h3 align="left">
+    <br />
     <ul>
       <li>👀 Just call me <strong>Mohammad</strong></li>
+      <br />
       <li>
-        👨‍💻 Check my
-        <a href="https://mohammadkawash.vercel.app/" target="_blank" rel="noreferrer">Portfolio</a>
+    👨‍💻 Check my
+        <a href="https://mohammadkawash.vercel.app/" rel="noreferrer" target="_blank">Portfolio</a>
       </li>
+      <br />
       <li>📫 You can reach me at <a href="mailto:mkawash777@gmail.com">mkawash777@gmail.com</a></li>
+      <br />
     </ul>
   </h3>
 </div>
 
 <br />
 
-# 📢 Languages and Tools
+<!-- <hr /> -->
 
+<!-- # Languages and Tools: -->
+# 📢 Languages and Tools
+<!-- <h3 align="center">Languages and Tools:</h3> -->
+<br />
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -240,48 +258,52 @@
     </td>
   </tr>
 </table>
-
 <hr />
+
 
 # 🚩 General Stats
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammad-kawach&theme=gruvbox"
-  width="100%"
-/>
-
-<hr />
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=mohammad-kawach&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<hr />
-
+<!-- profile-summary -->
 <div>
-  <p align="left">
-    <img
-      width="45%"
-      align="left"
-      src="https://github-readme-stats.vercel.app/api?username=mohammad-kawach&theme=gruvbox&show_icons=true&locale=en"
-      alt="Mohammad_Kawash"
-    />
-  </p>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/ profile-details?username=mohammad-kawach&theme=gruvbox"
+    width="100%"
+  />
 
+  <div>
+    <!-- # Mohammad Kawash's GitHub Stats -->
+    <p align="left">
+      <img
+        width="45%"
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=mohammad-kawach&theme=gruvbox&show_icons=true&locale=en"
+        alt="Mohammad_Kawash"
+      />
+    </p>
+
+  <!-- # Github Readme Streak Stats -->
   <p align="right">
     <img
       width="45%"
       align="right"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-kawach&theme=gruvbox"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-kawach&theme=gruvbox&"
       alt="Mohammad_Kawash"
     />
   </p>
+  </div>
 </div>
+
+<!-- <hr /> -->
+
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mohammad-kawach&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<hr />
+
+
 
 <hr />
 
 # ✍️ Random Dev Quote
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Quote" />
 </p>
