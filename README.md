@@ -33,18 +33,6 @@
 </h3>
 <br />
 
-# ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Quote" />
-</p>
-
-<br />
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohammad-kawach&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<br />
-
 <!-- General Info -->
 # 🚧 General Info & Portfolio & Contact
 <div>
@@ -303,3 +291,17 @@
     />
   </p>
 </div>
+
+<br />
+
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mohammad-kawach&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<br />
+
+# ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Quote" />
+</p>
+
+<br />
