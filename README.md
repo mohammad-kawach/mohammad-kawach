@@ -54,7 +54,7 @@
       <li>👀 Just call me <strong>Mohammad</strong></li>
       <br />
       <li>
-    👨‍💻 Check my
+    👨‍💻 Check my: 
         <a href="https://mohammadkawash.vercel.app/" rel="noreferrer" target="_blank">Portfolio</a>
       </li>
       <br />
