@@ -58,7 +58,7 @@
         <a href="https://mohammadkawash.vercel.app/" rel="noreferrer" target="_blank">Portfolio</a>
       </li>
       <br />
-      <li>📫 You can reach me at: <a href="mailto:mohmad.kawach@yahoo.com">mohmad.kawach@yahoo.com</a></li>
+      <li>📫 You can reach me at: <a href="mailto:mohammad.kawash@proton.me">mohammad.kawash@proton.me</a></li>
       <br />
     </ul>
   </h3>
