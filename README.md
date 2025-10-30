@@ -28,7 +28,7 @@
 <h3 align="center">
   Software Engineer 🎓 <br /><br />
   AI Master Student 👔 <br /><br />
-  Front-End Web Developer 💻<br /><br />
+  <!-- Front-End Web Developer 💻<br /><br /> -->
   Programmer and Problem Solver 💡<br />
 </h3>
 <br />
