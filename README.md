@@ -21,8 +21,22 @@ alt="mohammad-kawash"
 </a>
 </p>
 
-<hr />
+<!-- <hr /> -->
 
+<!-- # 💫 About Me: -->
+<!-- 💻 Software Engineer<br>🎈 Front-End Developer<br>🎓 AI Master Student -->
+
+<!-- # About Me -->
+<h3 align="center">
+Software Engineer 🎓 <br /><br />
+AI Master Student 👔 <br /><br />
+  Front-End Web Developer 💻<br /><br />
+  <!-- Front-End Web Developer 💻<br /><br /> -->
+Programmer and Problem Solver 💡<br />
+</h3>
+<br />
+
+<hr />
 
 <!-- # Languages and Tools: -->
 <h1 align="center">📢 Languages and Tools</h1>
@@ -54,22 +68,6 @@ alt="mohammad-kawash"
 </p>
 <hr />
 
-<!-- <hr /> -->
-
-
-
-<!-- # 💫 About Me: -->
-<!-- 💻 Software Engineer<br>🎈 Front-End Developer<br>🎓 AI Master Student -->
-
-<!-- # About Me -->
-<h3 align="center">
-Software Engineer 🎓 <br /><br />
-AI Master Student 👔 <br /><br />
-  Front-End Web Developer 💻<br /><br />
-  <!-- Front-End Web Developer 💻<br /><br /> -->
-Programmer and Problem Solver 💡<br />
-</h3>
-<br />
 
 <!-- General Info -->
 # 🚧 General Info & Portfolio & Contact
