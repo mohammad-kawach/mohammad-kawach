@@ -73,192 +73,30 @@ Programmer and Problem Solver 💡<br />
 # 📢 Languages and Tools
 <!-- <h3 align="center">Languages and Tools:</h3> -->
 <br />
-<table align="center">
-<tr>
-<td align="center" width="96">
- <a href="#react-js">
-   <img
-     src="https://cdn.worldvectorlogo.com/logos/react-2.svg"
-     width="48"
-     height="48"
-     alt="React_JS"
-   />
- </a>
- <br />React JS
-</td>
-<td align="center" width="96">
- <a href="#js">
-   <img
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
-     width="48"
-     height="48"
-     alt="javascript"
-   />
- </a>
- <br />Javascript
-</td>
-<td align="center" width="96">
- <a href="#Redux">
-   <img
-     src="https://cdn.worldvectorlogo.com/logos/redux.svg"
-     width="48"
-     height="48"
-     alt="Redux"
-   />
- </a>
- <br />Redux
-</td>
-<td align="center" width="96">
- <a href="#typescript">
-   <img
-     src="https://cdn.worldvectorlogo.com/logos/typescript.svg"
-     width="48"
-     height="48"
-     alt="TypeScript"
-   />
- </a>
- <br />TypeScript
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
- <a href="#nextjs">
-   <img
-     src="https://cdn.worldvectorlogo.com/logos/next-js.svg"
-     width="48"
-     height="48"
-     alt="Next JS"
-   />
- </a>
- <br />Next JS
-</td>
-<td align="center" width="96">
- <a href="#html5">
-   <img
-     src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"
-     width="48"
-     height="48"
-     alt="Html5"
-   />
- </a>
- <br />Html5
-</td>
-<td align="center" width="96">
- <a href="#css3">
-   <img
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png"
-     width="48"
-     height="48"
-     alt="Css3"
-   />
- </a>
- <br />CSS3
-</td>
-<td align="center" width="96">
- <a href="#bootstrap">
-   <img
-     src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png"
-     width="48"
-     height="42"
-     alt="Bootstrap"
-   />
- </a>
- <br />Bootstrap
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
- <a href="#tailwindcss">
-   <img
-     src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4"
-     width="48"
-     height="48"
-     alt="Tailwind CSS"
-   />
- </a>
- <br />Tailwind CSS
-</td>
-<td align="center" width="96">
- <a href="#jQuery">
-   <img
-     src="https://avatars.githubusercontent.com/u/70142?s=48&v=4"
-     width="48"
-     height="48"
-     alt="jQuery"
-   />
- </a>
- <br />jQuery
-</td>
-<td align="center" width="96">
- <a href="#sass">
-   <img
-     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-     width="48"
-     height="48"
-     alt="Sass"
-   />
- </a>
- <br />Sass
-</td>
-<td align="center" width="96">
- <a href="#mysql">
-   <img
-     src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg"
-     width="48"
-     height="48"
-     alt="mysql"
-   />
- </a>
- <br />MySQL
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
- <a href="#git">
-   <img
-     src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"
-     width="48"
-     height="48"
-     alt="Git"
-   />
- </a>
- <br />Git
-</td>
-<td align="center" width="96">
- <a href="#python">
-   <img
-     src="https://cdn.worldvectorlogo.com/logos/python-5.svg"
-     width="48"
-     height="48"
-     alt="Python"
-   />
- </a>
- <br />Python
-</td>
-<td align="center" width="96">
- <a href="#php">
-   <img
-     src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"
-     width="100"
-     height="48"
-     alt="PHP"
-   />
- </a>
- <br />PHP
-</td>
-<td align="center" width="96">
- <a href="#docker">
-   <img
-     src="https://avatars.githubusercontent.com/u/7739233?s=48&v=4"
-     width="48"
-     height="48"
-     alt="Docker"
-   />
- </a>
- <br />Docker
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=black" alt="SciPy"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
 <hr />
 
 <!-- <hr /> -->
