@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammad-kawach&color=36BCF7&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=mohammad-kawash&color=36BCF7&style=flat-square" />
 </p>
 
 ---
@@ -65,46 +65,23 @@ I love solving problems, building clean UI/UX, and merging **AI** with **real-wo
 
 ---
 
-## 📚 **Currently Working On**
-- Building **AI-powered tools** for automation  
-- Improving my **Next.js + ML integrations**  
-- Expanding my portfolio with real-world projects  
-- Working student at **ProSaldo GmbH (MonKey Office)**  
-
----
-
 ## 📊 **GitHub Stats**
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammad-kawach&theme=tokyonight" width="100%" />
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=mohammad-kawach&theme=tokyonight&show_icons=true" width="100%" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-kawach&theme=tokyonight" width="100%" />
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-kawach&layout=compact&theme=tokyonight" width="50%" />
+<div style="display:flex; flex-wrap:wrap; justify-items:center; align-items:center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohammad-kawach&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=mohammad-kawach&theme=great-gatsby&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-kawach&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ---
 
 ## 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammad-kawach&theme=tokyonight&no-frame=true&margin-w=10" />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mohammad-kawach&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mohammad-kawach&icon=1&color=2)](https://visitcount.itsvg.in)
 
-## 💬 Favorite Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
 
 ---
 
@@ -114,4 +91,3 @@ I love solving problems, building clean UI/UX, and merging **AI** with **real-wo
   • Email: <a href="mailto:mohammad.kawash@proton.me">mohammad.kawash@proton.me</a>  
   • Codewars: <a href="https://www.codewars.com/users/mohammad-kawash">Profile</a>
 </p>
-
