@@ -214,7 +214,7 @@ Focus areas:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohammad-kawach&show_icons=true&theme=great-gatsby&count_private=true" alt="Mohammad's GitHub stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohammad-kawach&show_icons=true&theme=great-gatsby&count_private=true" alt="GitHub Stats" />
 
 <br/>
 
@@ -222,7 +222,7 @@ Focus areas:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-kawach&layout=compact&theme=great-gatsby" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammad-kawach&layout=compact&theme=great-gatsby" alt="Top Languages" />
 
 </div>
 
