@@ -218,7 +218,7 @@ Focus areas:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-kawach&theme=great-gatsby" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=mohammad-kawach&theme=great-gatsby" alt="GitHub Streak" />
 
 <br/>
 
@@ -231,7 +231,7 @@ Focus areas:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohammad-kawach&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+<img src="https://trophy.ryglcloud.net/?username=mohammad-kawach&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 
 </div>
 
