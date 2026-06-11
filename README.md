@@ -23,7 +23,7 @@ I build practical software solutions with a focus on **enterprise systems**, **A
 <a href="mailto:mohammad.kawash@proton.me">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://www.linkedin.com/in/mohammad-kawash">
+<a href="https://www.linkedin.com/in/mohammad-kawach/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.codewars.com/users/mohammad-kawash/">
@@ -35,7 +35,7 @@ I build practical software solutions with a focus on **enterprise systems**, **A
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammad-kawash&color=36BCF7&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mohammad-kawach&color=36BCF7&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
@@ -235,6 +235,22 @@ Focus areas:
 
 <img src="https://github-profile-trophy-fork-two.vercel.app/?username=mohammad-kawach&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;row=1" alt="GitHub Trophies" />
 
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-kawach&amp;theme=github-compact&amp;hide_border=true&amp;area=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 📌 Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammad-kawach&amp;theme=github_dark" alt="GitHub Profile Summary" />
 </div>
 
 ---
