@@ -231,7 +231,9 @@ Focus areas:
 
 <div align="center">
 
-<img src="https://trophy.ryglcloud.net/?username=mohammad-kawach&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+<!-- <img src="https://trophy.ryglcloud.net/?username=mohammad-kawach&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" /> -->
+
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=mohammad-kawach&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;row=1" alt="GitHub Trophies" />
 
 </div>
 
