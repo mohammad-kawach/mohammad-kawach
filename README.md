@@ -231,10 +231,7 @@ Focus areas:
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://trophygh.kolioaris.xyz/?username=mohammad-kawach&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=-1"
-       alt="GitHub Trophies" />
-</a>
+<img src="./trophy.svg" alt="GitHub Trophies" />
 
 </div>
 
