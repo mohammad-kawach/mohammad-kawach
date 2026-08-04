@@ -5,8 +5,9 @@ on:
   schedule:
     - cron: "17 3 * * 0"
   push:
-    branches:
-      - main
+    paths:
+      - ".github/workflows/github-trophies.yml"
+  pull_request:
     paths:
       - ".github/workflows/github-trophies.yml"
 
@@ -29,6 +30,9 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: onedark
 
+      - name: Verify generated SVG
+        run: test -s trophy.svg
+
       - name: Point README to the generated SVG
         run: |
           python - <<'PY'
@@ -38,19 +42,17 @@ jobs:
           readme = path.read_text()
           start = readme.index("## 🏆 GitHub Trophies")
           end = readme.index("---", start)
-          replacement = '''## 🏆 GitHub Trophies
-
-<div align="center">
-
-  <img src="./trophy.svg" alt="GitHub Trophies" />
-
-</div>
-
-'''
+          replacement = (
+              "## 🏆 GitHub Trophies\n\n"
+              "<div align=\"center\">\n\n"
+              "  <img src=\"./trophy.svg\" alt=\"GitHub Trophies\" />\n\n"
+              "</div>\n\n"
+          )
           path.write_text(readme[:start] + replacement + readme[end:])
           PY
 
       - name: Commit updated trophy
+        if: github.ref == 'refs/heads/main'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
