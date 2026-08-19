@@ -210,24 +210,46 @@ Focus areas:
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/mohammad-kawach?tab=followers">
-  <img src="https://img.shields.io/github/followers/mohammad-kawach?style=for-the-badge&amp;logo=github&amp;label=Followers" alt="GitHub Followers" />
-</a>
-<a href="https://github.com/mohammad-kawach?tab=repositories&amp;sort=stargazers">
-  <img src="https://img.shields.io/github/stars/mohammad-kawach?affiliations=OWNER%2CCOLLABORATOR&amp;style=for-the-badge&amp;logo=github&amp;label=Stars" alt="GitHub Stars" />
-</a>
-<a href="https://github.com/mohammad-kawach/mohammad-kawach">
-  <img src="https://img.shields.io/github/last-commit/mohammad-kawach/mohammad-kawach?style=for-the-badge&amp;logo=github&amp;label=Profile%20updated" alt="Profile README Last Updated" />
-</a>
+<img src="https://profilekit.vercel.app/api/stats?username=mohammad-kawach&amp;theme=dark&amp;bg_color=000000&amp;title_color=ffa726&amp;text_color=ffffff&amp;icon_color=ffa726&amp;accent_color=ffa726" alt="GitHub Stats" />
 
-<br/><br/>
+<br/>
 
-[View my repositories and contribution activity →](https://github.com/mohammad-kawach)
+<img src="https://streak-stats.vercel.app/?user=mohammad-kawach&amp;theme=great-gatsby" alt="GitHub Streak" />
 
+<br/>
+
+<img src="https://profilekit.vercel.app/api/languages?username=mohammad-kawach&amp;theme=dark&amp;layout=compact&amp;bg_color=000000&amp;title_color=ffa726&amp;text_color=ffffff&amp;accent_color=ffa726" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://trophy.ryglcloud.net/?username=mohammad-kawach&amp;theme=darkhub&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammad-kawach&amp;theme=github-compact&amp;hide_border=true&amp;area=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 📌 Profile Summary
+
+<div align="center">
+  <img src="https://profilekit.vercel.app/api/stack?cards=stats%2Clanguages&amp;username=mohammad-kawach&amp;theme=dark&amp;gap=12&amp;stats.card_width=800&amp;languages.card_width=800" alt="GitHub Profile Summary" />
 </div>
 
 ---
